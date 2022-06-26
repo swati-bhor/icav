@@ -15,7 +15,7 @@
 # run the below apis in postman
 #  http://127.0.0.1:8080/requestdata (post method used in here)
 #  input parameter - {"row":3}
-#  http://127.0.0.1:8080/fetch_author_book (get method is used in here)
+# http://127.0.0.1:8080/fetch_author_book (get method is used in here)
 # input parameter used in here are {"author":"Jesse Grant"}
 
 
