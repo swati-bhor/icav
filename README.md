@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # step 1 make the empty folder inside the system
 # step 2  vs code drag and drop empty folder
 # step 3 start new terminal in vs code
