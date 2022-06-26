@@ -8,5 +8,5 @@
 #  http://127.0.0.1:8080/requestdata (post method used in here)
 #  input parameter - {"row":3}
 #  To fetch author book used below api
-#  http://127.0.0.1:8080/fetch_author_book
+#  http://127.0.0.1:8080/fetch_author_book (get method is used in here)
 #  input parameter used in here are {"author":"Jesse Grant"}
