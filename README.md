@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # step 1 make the empty folder inside the system
 # step 2  vs code drag and drop empty folder
 # step 3 start new terminal in vs code
@@ -17,3 +18,7 @@
 #  input parameter - {"row":3}
 #  http://127.0.0.1:8080/fetch_author_book (get method is used in here)
 #  input parameter used in here are {"author":"Jesse Grant"}
+=======
+
+
+>>>>>>> 72c2c3f14c0f9d0bee753ea1ad25ad1b95c2a3b7
