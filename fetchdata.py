@@ -13,7 +13,7 @@ class requestdata():
         try:
             json_data=request.get_json(force=True)
             row=json_data['row']
-            extract_df= requestdata.df.iloc[0:3,:]
+            extract_df= requestdata.df.iloc[0:row+1,:]
        
             if len(extract_df)!=0:
                 data = extract_df.to_dict('r')
