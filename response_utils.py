@@ -2,7 +2,7 @@ from flask import Response, make_response, render_template
 import json
 
 class ResponseUtil():
-	status = ""
+	
 
 	def __init__(self, status, code):
 		self.status = status
