@@ -1,9 +1,6 @@
 from flask import Response, make_response, render_template
 import json
 
-def render_html_template(page, data=None):
-	return make_response(render_template(page, data=data))
-
 class ResponseUtil():
 	status = ""
 
